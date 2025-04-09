@@ -10,36 +10,38 @@ Dashboard File: Analyzing_Employee_Trends.twbx
 
 *Key Takeaways:*
 
-Explore headcount distribution by department and job roles
+1. Explore headcount distribution by department and job roles
 
-Demographic insights (age, gender, education levels)
+2. Demographic insights (age, gender, education levels)
 
-Trends in satisfaction metrics and attrition rates
+3. Trends in satisfaction metrics and attrition rates
 
-Compensation and performance visuals
+4. Compensation and performance visuals
 
-Filter-enabled, executive-ready HR KPIs
+5. Filter-enabled, executive-ready HR KPIs
 
 **About Tableau**
 
-Tableau is a no-code/low-code business intelligence platform for creating dynamic dashboards from structured and semi-structured data. Key capabilities include:
+Tableau is a no-code/low-code business intelligence platform for creating dynamic dashboards from structured and semi-structured data. 
 
-Integration with multiple data sources
+Key capabilities include:
 
-Wide range of charting and mapping tools
+- Integration with multiple data sources
 
-Built-in analytics for forecasting and clustering
+- Wide range of charting and mapping tools
 
-Real-time dashboard sharing via Tableau Cloud/Public
+- Built-in analytics for forecasting and clustering
+
+- Real-time dashboard sharing via Tableau Cloud/Public
 
 **How to Use These Projects**
 
-Download Tableau Desktop
+1. Download Tableau Desktop
 
-Clone or download this repository
+2. Clone or download this repository
 
-Open any .twbx file using Tableau
+3. Open any .twbx file using Tableau
 
-Interact with filters and visual elements
+4. Interact with filters and visual elements
 
-Optionally connect your own data for custom insights
+5. Optionally connect your own data for custom insights
