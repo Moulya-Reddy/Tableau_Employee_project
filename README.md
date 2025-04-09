@@ -1,47 +1,38 @@
-# Tableau_Employee_project
-Interactive Tableau Visualizations
+# Employee Data Analysis Dashboard
 
-Welcome! This repository showcases a collection of interactive dashboards built using Tableau, designed to analyze and extract insights from real-world datasets across different domains like HR, automotive, and customer service.
+This project features an interactive Tableau dashboard created to explore and visualize employee data. It provides insights into workforce distribution, departmental headcount, salary breakdowns, and other HR metrics.
 
-**Projects Overview**
+## Dashboard Features:
 
-HR Workforce Insights
-Dashboard File: Analyzing_Employee_Trends.twbx
+- **Department-wise employee distribution**
+- **Gender ratio visualization**
+- **Salary vs Department analysis**
+- **Interactive filters** for Job Role, Gender, and Department
 
-*Key Takeaways:*
+## Objective:
 
-1. Explore headcount distribution by department and job roles
+To help HR professionals and decision-makers understand employee patterns and support data-driven planning through intuitive visualizations.
 
-2. Demographic insights (age, gender, education levels)
+## Tools Used:
 
-3. Trends in satisfaction metrics and attrition rates
+- Tableau Public (for dashboard design and interactivity)
+- CSV dataset containing employee records
 
-4. Compensation and performance visuals
+## Files Included:
 
-5. Filter-enabled, executive-ready HR KPIs
+- `Employee_Data_Analysis.twbx` – Tableau Packaged Workbook (open in Tableau)
+- Dataset (can be uploaded if not included)
 
-**About Tableau**
+## How to View the Dashboard:
 
-Tableau is a no-code/low-code business intelligence platform for creating dynamic dashboards from structured and semi-structured data. 
+1. Download and install [Tableau Public](https://public.tableau.com/en-us/s/)
+2. Open the `.twbx` file included in this repository
+3. Interact with the filters to explore insights
 
-Key capabilities include:
+## Highlights
 
-- Integration with multiple data sources
+**EMPLOYEE DATA ANALYSIS PROJECT:-**  
+Created an interactive Tableau dashboard to analyze employee demographics, departmental distribution, and salary structure.  
+Visualized key HR metrics such as gender ratio, department-wise headcount, job roles, and average salaries.  
+Enabled filters for dynamic insights, allowing stakeholders to explore trends and identify patterns in workforce composition.
 
-- Wide range of charting and mapping tools
-
-- Built-in analytics for forecasting and clustering
-
-- Real-time dashboard sharing via Tableau Cloud/Public
-
-**How to Use These Projects**
-
-1. Download Tableau Desktop
-
-2. Clone or download this repository
-
-3. Open any .twbx file using Tableau
-
-4. Interact with filters and visual elements
-
-5. Optionally connect your own data for custom insights
